@@ -1,6 +1,6 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://user-images.githubusercontent.com/43504407/140059056-5609753a-bc75-48c7-97f7-decd3e07eca3.png" width="950" height="291">
 <h1 align="center">Hey 👋, I'm Jayamini Sakunthala</h1>
-<h3 align="center">A passionate Software developer from Sri Lanaka.I'm ready to start working together building the next amazing life-chnager digital product!!!.</h3>
+<h3 align="center">A passionate Software developer from Sri Lanaka.I'm ready to start working together building the next amazing life-changer digital product!!!.</h3>
 
 <img align="center" title="woman.gif" src="https://cdn.dribbble.com/users/911625/screenshots/11113787/media/f86c438b8ad10f890b4f419276a2be1c.gif" alt="F86c438b8ad10f890b4f419276a2be1c" >
 
