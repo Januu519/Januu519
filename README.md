@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Jayamini Sakunthala</h1>
-<h3 align="center">A passionate Software developer from Sri Lanaka.I'm ready to start working together building the next amazing life-chnager digital producy!!!.</h3>
+<h3 align="center">A passionate Software developer from Sri Lanaka.I'm ready to start working together building the next amazing life-chnager digital product!!!.</h3>
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/11113787-Woman-chatting-online-Girl-with-laptop-sitting-at-table.gif">
 
 
