@@ -1,6 +1,6 @@
 <img src="https://c.tenor.com/oXXYhHPgcHwAAAAC/welcome-to-my-profile-welcome.gif" width="850" height="300.73493975903614" alt="Welcome To My Profile Welcome GIF - Welcome To My Profile Welcome GIFs" style="max-width: 690px;">
 <h1 align="center">Hey 👋, I'm Jayamini Sakunthala</h1>
-<h3 align="center">A passionate Software developer from Sri Lanaka.I'm ready to start working together building the next amazing life-chnager digital producy!!!.</h3>
+<h3 align="center">A passionate Software developer from Sri Lanaka.I'm ready to start working together building the next amazing life-chnager digital product!!!.</h3>
 <img align="center" title="woman.gif" src="https://cdn.dribbble.com/users/911625/screenshots/11113787/media/f86c438b8ad10f890b4f419276a2be1c.gif" alt="F86c438b8ad10f890b4f419276a2be1c" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=januu519&label=Profile%20views&color=0e75b6&style=flat" alt="januu519" /> </p>
